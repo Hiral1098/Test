@@ -1,4 +1,4 @@
-//person detail
+//person's detail
 class Detail{
     constructor(name,age,gender){ 
         this.name=name;
